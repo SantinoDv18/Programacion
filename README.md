@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí está la versión del README con emojis para darle un toque más visual y amigable.
-
----
-
 # 💻 Ejercicios de Programación en Python 🐍
 
 Este repositorio contiene una colección de ejercicios de programación en Python, organizados por día. El objetivo es proporcionar una ruta de práctica para afianzar los conceptos fundamentales del lenguaje.
